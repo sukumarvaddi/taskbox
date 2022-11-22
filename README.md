@@ -1,1 +1,1 @@
-<p> https://637cc632621a19b885253b59-ncnmqwqmne.chromatic.com/</p>
+<p> https://www.chromatic.com/library?appId=637cc632621a19b885253b59/</p>
